@@ -1,6 +1,10 @@
 # Tesla Stock Analysis
 ![Tesla Image](/TSLA.jpg)
 
+## Jupyter Notebook
+![Tesla Notebook](/Screen%20Shot%202021-01-28%20at%2010.59.02%20AM.png)
+Link: [Tesla Jupyter Notebook](https://github.com/jonathan-data-analysis/Tesla-Data-Analysis/blob/main/TSLA.ipynb)
+
 ## Context
 Cupcake ipsum dolor sit amet sugar plum. Sweet I love halvah apple pie cake chocolate cake gummies chocolate bar sesame snaps. Dragée sesame snaps halvah cupcake. I love bonbon I love I love. Pie danish fruitcake. Sweet roll tootsie roll jelly-o liquorice sweet gingerbread topping jelly beans carrot cake. Gingerbread icing gummi bears biscuit. Bear claw topping cheesecake carrot cake I love. Dragée dragée chocolate jelly beans carrot cake.
 
