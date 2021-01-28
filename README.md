@@ -1,5 +1,5 @@
 # Tesla Stock Analysis
-[![Tesla Image](/TSLA.jpg)]
+![Tesla Image](/TSLA.jpg)
 
 ## Context
 Cupcake ipsum dolor sit amet sugar plum. Sweet I love halvah apple pie cake chocolate cake gummies chocolate bar sesame snaps. Dragée sesame snaps halvah cupcake. I love bonbon I love I love. Pie danish fruitcake. Sweet roll tootsie roll jelly-o liquorice sweet gingerbread topping jelly beans carrot cake. Gingerbread icing gummi bears biscuit. Bear claw topping cheesecake carrot cake I love. Dragée dragée chocolate jelly beans carrot cake.
