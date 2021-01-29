@@ -2,7 +2,7 @@
 ![Tesla Image](/TSLA.jpg)
 
 ## Jupyter Notebook
-![Tesla Notebook](/Screen%20Shot%202021-01-28%20at%2010.59.02%20AM.png)
+![Tesla Notebook](/tsla_notebook.png)
 Link: [Tesla Jupyter Notebook](https://github.com/jonathan-data-analysis/Tesla-Data-Analysis/blob/main/TSLA.ipynb)
 
 ## Context
